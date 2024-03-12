@@ -1,6 +1,6 @@
 # Investigating Causal Impacts on Incident Duration
 
-The objective of this project is to detect the presence (or non-presence) of a causal impact of the time delay between a ServiceNow incident ticket being opened and its subsquent access (i.e. for initial triage) on the overall resolution time. This was accomplished using uber's causalml package.
+The objective of this project is to detect the presence (or non-presence) of a causal impact of the time delay between a ServiceNow incident ticket being opened and its subsequent access (i.e. for initial triage) on the overall resolution time. This was accomplished using uber's causalml package.
 
 Note: This notebook was created in Google Colab for a quick start given package conflicts with causalml as at Feb 2024. Creating a local virtual environment is another alternative to circumvent these conflicts. 
 
